@@ -1,0 +1,23 @@
+{
+  "name": "natours-sdk",
+  "version": "0.0.0",
+  "description": "get all functionality of natours app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi64142/Natours-SDK.git"
+  },
+  "keywords": [
+    "allTours"
+  ],
+  "author": "abhishek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhi64142/Natours-SDK/issues"
+  },
+  "homepage": "https://github.com/abhi64142/Natours-SDK#readme"
+}
